@@ -1,2 +1,2 @@
 # -OIII-analysis-test
-Overlays multiple fits files 
+this python script will allow a user to overlay multiple fits files ontop of each other to create a view of a object. Each fits file must be 2 dimensional (only one slice not a datacube). This can be useful for analysing different linemaps for a galaxy. In this case the program will use the example files to display multiple layers over each other, to find different sources of [OIII] emmisions within a galaxy. This superimposed image allows for different redhsifted regions of nebulae to be found.
